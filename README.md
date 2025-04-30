@@ -1,0 +1,1 @@
+The story of this filter is based on the four fundamental elements (fire, air, water and earth; I skipped wood:). I'm interested in zodiac, Because of my interest in the zodiac, human nature, personality types, human temperaments, I designed it inspired by these concepts.
