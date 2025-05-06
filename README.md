@@ -4,7 +4,7 @@
 - Open CV Temelli olacak. Derin öğrenme tabanlı daha gelişmiş algoritmalar kullanılmayacak.
 - Farklı ve size ait özgün fikirler olmalı.
 
-  ## Bu proje için yapmış olduğum filtrenin hikâyesi 4 temel elemente (ateş, hava, su, toprak.. Tahtayı es geçtim:) dayanıyor. Zodyak, insan mizaçları gibi konulara olan yoğun ilgimden ötürü, bize verilen yönergeye uygun şeklde bu tarz bir filtre tasarladım. Umarım beğenirsiniz<3
+  ## Bu proje için yapmış olduğum filtrenin hikâyesi 4 temel elemente (ateş, hava, su, toprak.. Tahtayı es geçtim:) dayanıyor. Zodyak, insan mizaçları gibi konulara olan yoğun ilgimden ötürü, bize verilen yönergeye uygun şekilde bu temada bir filtre tasarladım. Umarım beğenirsiniz<3
   <hr>
   # Task:  
 - A social media face filter will be developed.  
